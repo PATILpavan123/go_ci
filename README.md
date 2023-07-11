@@ -52,7 +52,7 @@ go run main.go
 - Create private ECR repository `lesson-086`
 
 ## Create AWS IAM User, Policy, and Group
-
+## Note - create secret and access key with aws cli access for programatic access
 - Create IAM Policy `AllowPushPullPolicy`
 ```json
 {
